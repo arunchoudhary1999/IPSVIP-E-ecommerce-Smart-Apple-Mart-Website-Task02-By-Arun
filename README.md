@@ -1,4 +1,4 @@
-# -IPSVIP-E-ecommerce-Smart-Apple-Mart-Website-Task02-By-Arun
+# IPSVIP-E-ecommerce-Smart-Apple-Mart-Website-Task02-By-Arun
 
 #Greetings to Everyone,
 #Again I Welcome all friends to My Linkedin Member
@@ -7,7 +7,7 @@ My name is Arun Choudhary and I have uploaded Task 02 ( Smart Apple Mart ) E-eco
 I have created Amazing E-ecommerce Site / Online Shopping ( Smart Apple Mart ) Website in Task02, and this Internship to create VIP's Task02 Infopillar Solution. I have created a beautiful smart apple mart ecommerce website using ReactJS using Redux, Bootstrap in which i got to learn a lot
 
 Here I have uploaded the source code 👇
-#GitHub repository file :- 
+#GitHub repository file :- https://github.com/arunchoudhary1999/-IPSVIP-E-ecommerce-Smart-Apple-Mart-Website-Task02-By-Arun
 
 This is E-commerce SMART APPLE MART Website in React using Redux. This is a Simple and Easy Reactjs Project to understand the concept and uses of React-Redux.
 1. Create React App
